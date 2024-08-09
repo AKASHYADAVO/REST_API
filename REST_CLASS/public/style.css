@@ -1,0 +1,71 @@
+h1{
+    color: gold;
+}
+.post{
+    background: rgba(255, 255, 255, 0.3);
+    /* background-color:#FA6775; */
+}
+h1:hover{
+    /* background-color:#F52549; */
+    background: #FA6775;
+    border-radius: 5%;
+    border: 2px solid gold;
+    margin: 10px;
+}
+textarea:hover{
+    /* background-color:#F52549; */
+    background: #FA6775;
+    border-radius: 5%;
+    border: 2px solid gold;
+    margin: 10px;
+}
+.post:hover{
+    /* background-color:#F52549; */
+    background: #FA6775;
+    border-radius: 5%;
+    border: 2px solid gold;
+    margin: 10px;
+}
+.user{
+    font-style: italic;
+}
+.glass-effect {
+    background: rgba(255, 255, 255, 0.3); /* Semi-transparent white */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px); /* Apply the blur effect */
+    -webkit-backdrop-filter: blur(10px); /* Safari support */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Optional border */
+  }
+  
+.b{
+    text-align: center;
+    background-image: url('/image/beach-waves-night-palm-trees-starry-sky-scenery-digital-art-11@0@j-thumb.jpg');
+    /* background-image: url('https://img.uhdpaper.com/wallpaper/sunset-city-car-road-scenery-digital-art-262@2@a-thumb.jpg?dl'); */
+    /* background-color:#F52549; */
+    color: rgb(235, 201, 7);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Optional: Set the height to full viewport */
+    margin: 0; /* Remove default margin */
+}
+
+textarea{
+    /* background-color: #FB6542; */
+    background: rgba(255, 255, 255, 0.3);
+    color: GOLD;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+}
+button{
+    /* background-color:#F52549; */
+    background: rgba(255, 255, 255, 0.3);
+    color:gold ;
+}
+/* *{
+    background-color: aquamarine;
+} */
